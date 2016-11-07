@@ -1,4 +1,4 @@
-# accidents-in-india
+# Accidents in India 
 Data visualization of accidents in India based on time of occurance in 2014.
 
 Data was gathered from ( https://data.gov.in/catalog/stateut-wise-traffic-accidents-time-occurrence)
